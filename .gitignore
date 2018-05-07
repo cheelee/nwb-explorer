@@ -4,3 +4,8 @@
 static/org.geppetto.frontend/
 .DS_Store
 *.nwb
+*.iml
+pygeppetto/
+pygeppetto-django/
+pynwb/
+dump.rdb
